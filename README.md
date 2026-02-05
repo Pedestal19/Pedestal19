@@ -28,7 +28,7 @@ Senior Backend Engineer focused on building reliable, production-grade APIs and 
 ## Versatility & background
 Alongside my backend specialization, I have hands-on experience working across the stack:
 - Full-stack applications (backend APIs with frontend integrations)
-- Mobile development (Android)
+- Mobile development (native)
 - Cloud integrations and CI/CD workflows
 
 This breadth complements my backend specialization rather than replacing it.
